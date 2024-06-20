@@ -5,4 +5,4 @@
 - Nowadays I spend the vast majority of my time inside [GNU/Emacs](https://emacs.org)
 - The window manager of my choice is: [dwm](https://dwm.suckless.org)
 - I like listening to Phil Collins and Genesis 🎵 
-- I must have been a squirrel 🐿️ in my prev' life as I'm very much into data hoarding
+- I must have been a squirrel 🐿️ in my prev' life as I'm very much into [/r/datahoarding](https://www.reddit.com/r/DataHoarder/)
